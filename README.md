@@ -10,10 +10,17 @@ Have a nice day Krzakerson
 
 
 https://localhost:7167/api/GreatOldOnes
+
 https://localhost:7167/api/GreatOldOnes/{id}
+
 https://localhost:7167/api/GreatOnes
+
 https://localhost:7167/api/GreatOldOnes/{id}
+
 https://localhost:7167/api/OuterOnes
+
 https://localhost:7167/api/OuterOnes/{id}
+
 https://localhost:7167/api/Stories
+
 https://localhost:7167/api/Stories/{id}
