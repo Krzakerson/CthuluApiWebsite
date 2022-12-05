@@ -9,6 +9,8 @@ Down below you can see screenshoots of my app :)
 
 ![image](https://user-images.githubusercontent.com/92225516/205743579-1c448fb3-8848-4f92-9934-d1c7c134c941.png)
 
+![image](https://user-images.githubusercontent.com/92225516/205743783-0f7e2b2c-d1d9-4696-8e68-bb3a6f2af54a.png)
+
 Hope that this will help you in using my app :)
 
 Have a nice day Krzakerson
