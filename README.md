@@ -11,6 +11,8 @@ Down below you can see screenshoots of my app :)
 
 ![image](https://user-images.githubusercontent.com/92225516/205743783-0f7e2b2c-d1d9-4696-8e68-bb3a6f2af54a.png)
 
+![image](https://user-images.githubusercontent.com/92225516/205743922-6b3c7a3a-7065-490f-9582-7e84c7e640d8.png)
+
 Hope that this will help you in using my app :)
 
 Have a nice day Krzakerson
