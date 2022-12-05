@@ -1,9 +1,0 @@
-fixme 
-
-naprawic greatones po id
-
-
-i zrobic zeby sie ladnie wyswietlalo
-
-
-zmienic pixele na procenty zeby na kazdym wsywietlaczu wygladalo git
