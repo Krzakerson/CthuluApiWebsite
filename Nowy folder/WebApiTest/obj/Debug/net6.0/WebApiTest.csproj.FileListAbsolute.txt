@@ -1,0 +1,191 @@
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\appsettings.Development.json
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\appsettings.json
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\WebApiTest.exe
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\WebApiTest.deps.json
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\WebApiTest.runtimeconfig.json
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\WebApiTest.pdb
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projekty szkola\Webowe\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.AssemblyReference.cache
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfoInputs.cache
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfo.cs
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CoreCompileInputs.cache
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cs
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\scopedcss\bundle\WebApiTest.styles.css
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CopyComplete
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\refint\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.pdb
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\WebApiTest.genruntimeconfig.cache
+D:\Projekty szkola\Webowe\WebApiTest\obj\Debug\net6.0\ref\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\appsettings.Development.json
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\appsettings.json
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.exe
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.deps.json
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.runtimeconfig.json
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.pdb
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.AssemblyReference.cache
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfoInputs.cache
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfo.cs
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CoreCompileInputs.cache
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cs
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\scopedcss\bundle\WebApiTest.styles.css
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CopyComplete
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\refint\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.pdb
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.genruntimeconfig.cache
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\ref\WebApiTest.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Http.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Humanizer.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\MySqlConnector.dll
+D:\Projekty szkola\Webowe\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\appsettings.Development.json
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\appsettings.json
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.exe
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.deps.json
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.runtimeconfig.json
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.pdb
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Humanizer.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Cors.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Http.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Http.Cors.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\MySqlConnector.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.AssemblyReference.cache
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfoInputs.cache
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfo.cs
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CoreCompileInputs.cache
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cs
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cache
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\staticwebassets.build.json
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\staticwebassets.development.json
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\scopedcss\bundle\WebApiTest.styles.css
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CopyComplete
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.dll
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\refint\WebApiTest.dll
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.pdb
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.genruntimeconfig.cache
+G:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\ref\WebApiTest.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\appsettings.Development.json
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\appsettings.json
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.exe
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.deps.json
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.runtimeconfig.json
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\WebApiTest.pdb
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Humanizer.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Cors.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Http.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\MySqlConnector.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WebApidotnerandtsc\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.AssemblyReference.cache
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfoInputs.cache
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfo.cs
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CoreCompileInputs.cache
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cs
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cache
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\staticwebassets.build.json
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\staticwebassets.development.json
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\scopedcss\bundle\WebApiTest.styles.css
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CopyComplete
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.dll
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\refint\WebApiTest.dll
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.pdb
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\WebApiTest.genruntimeconfig.cache
+E:\WebApidotnerandtsc\WebApiTest\obj\Debug\net6.0\ref\WebApiTest.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\appsettings.Development.json
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\appsettings.json
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\WebApiTest.exe
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\WebApiTest.deps.json
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\WebApiTest.runtimeconfig.json
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\WebApiTest.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\WebApiTest.pdb
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Humanizer.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\System.Web.Cors.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\System.Web.Http.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\System.Web.Http.Cors.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\MySqlConnector.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.AssemblyReference.cache
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfoInputs.cache
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.AssemblyInfo.cs
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CoreCompileInputs.cache
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cs
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.MvcApplicationPartsAssemblyInfo.cache
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\staticwebassets.build.json
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\staticwebassets.development.json
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\scopedcss\bundle\WebApiTest.styles.css
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.csproj.CopyComplete
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\refint\WebApiTest.dll
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.pdb
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\WebApiTest.genruntimeconfig.cache
+E:\WebApidotnerandtsc\Nowy folder\WebApiTest\obj\Debug\net6.0\ref\WebApiTest.dll

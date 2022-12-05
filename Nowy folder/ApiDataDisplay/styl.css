@@ -1,0 +1,120 @@
+body{
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+    background-size: 100%;
+}
+
+.siteframe{
+    width: 5px;
+    background-color: white;
+    height: 100%;
+    position: absolute;
+    top:0%;
+    left: 4%;
+}
+
+.sitelinks{
+    position: absolute;
+    background-color: brown;
+    top:0%;
+    right: 97%;
+    width: 3%;
+
+}
+
+.input{
+    position: absolute;
+    left: 76%;
+    width: 300px;
+    top:290px;
+}
+
+
+.wherebtn{
+    position: absolute;
+    left: 1695px;
+    width: 150px;
+    top:215px;
+   
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 230px;
+    background-color: #19334d;
+    height: 20px;
+    position: absolute;
+    left: 1230px;
+    top:215px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+input{
+    width: 235px;
+    height: 40px;
+    position: absolute;
+    top:-75px;
+    border: 2px solid #73AD21;
+    border-radius: 25px;
+    background-color: #19334d;
+    color: white;
+    
+}
+
+.example{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 380px;
+    height: 270px;
+    background-color: #19334d;
+    position: absolute;
+    left: 17%;
+    color: white;
+    top: 8%;
+}
+
+.example2{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 422px;
+    height: 270px;
+    background-color: #19334d;
+    position: absolute;
+    left: 40%;
+    color: white;
+    top: 8%;
+}
+
+
+.iframediv{
+    position: absolute;
+    top:40%;
+    left: 25%;
+}
+
+
+.inside{
+    position: absolute;
+    left: -70px;
+    top: 1%;
+    color: white;
+}
+
+iframe{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    background-color: #19334d;
+}
+
+a{
+    text-decoration: none;
+}
