@@ -1,6 +1,6 @@
-# CthuliuApiWebsite
+# CthuluApiWebsite
 
-Hello And Welocome in my CthuluApiWebsite App this is simple project that include my own Cthulu API and HTML website using js to get data from API. 
+Hello And Welcome in my CthuluApiWebsite App this is simple project that include my own Cthulu API and HTML website using js to get data from API. 
 You have all avaible links to use an API in a main page but i will post them here anyway. 
 Down below you can see screenshoots of my app :)
 
